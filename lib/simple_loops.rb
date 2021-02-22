@@ -31,6 +31,10 @@ def return_string_array array
     new_element = array[counter].to_s 
     string_array.push new_element
     counter += 1 
+<<<<<<< HEAD
   end
   string_array
+=======
+  end 
+>>>>>>> fd7b742254fa7b355aecca496fdf92ae05080fc3
 end
